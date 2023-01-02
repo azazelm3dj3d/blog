@@ -1,6 +1,8 @@
 baseURL = "https://blog.azazelm3dj3d.com"
 title = "Azazel's Blog"
 theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [params]
   author = "azazelm3dj3d"
