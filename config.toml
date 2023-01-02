@@ -1,0 +1,25 @@
+baseURL = "https://blog.azazelm3dj3d.com"
+title = "Azazel's Blog"
+theme = "github-style"
+
+[params]
+  author = "azazelm3dj3d"
+  description = "Software Developer"
+  github = "azazelm3dj3d"
+  twitter = "azazelm3dj3d"
+  linkedin = "azazelm3dj3d"
+  url = "https://azazelm3dj3d.com"
+  keywords = "azazelm3dj3d blog, software development, programming, cybersecurity"
+  rss = true
+  lastmod = true
+  favicon = "/images/github.png"
+  location = "~"
+  userStatusEmoji = "💀"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
