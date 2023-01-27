@@ -13,7 +13,7 @@ pygmentsUseClasses = true
   keywords = "azazelm3dj3d blog, software development, programming, cybersecurity, azazelm3dj3d, open-source developer, open source"
   rss = true
   lastmod = true
-  favicon = "/images/github.png"
+  favicon = "https://avatars.githubusercontent.com/u/56496067"
   location = "~"
   userStatusEmoji = "💀"
 
